@@ -24,3 +24,6 @@ console.log("I'm about to make the request!");
 https.request(options, callback).end();
 
 console.log("I've made the request");
+
+
+// Testing to make sure git log in works after update
